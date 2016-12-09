@@ -2,13 +2,15 @@
 layout: page
 ---
 
-# Über Barbara Beinenz
+# über mich
 ![Barbara Beinenz](img/portrait.png) 
 
-Diplomierte Wellnessmasseurin für:
+Diplomierte Wellnessmasseurin 
 
-\- Ayurveda Abhyanga
-\- Hot Stone Massage
-\- Fußzonenmassage
-\- Ganzheitliche Wellnessmassage
+Mit ganzheitlichen Heilmethoden habe ich mich schon länger beschäftigt und festgestellt, dass man hier viel bewegen kann. 
+Über Yoga, Osteopathie und WS Gymnastik kam ich zu den Massagen. Ich wollte mehr lernen und dieses Wissen in der Anwendung weiter geben.
+Die Ausbildung zur Wellnessmasseurin habe ich im Nov 2012 gemacht. Zu Beginn meiner Tätigkeit  habe ich in einem BeautyStudio das angebotene Portfolio durch meine Massagen ergänzt.    
+Seit 2015 befindet sich mein Studio nun in eigenen Räumen. im Oktober d. J. habe ich eine weitere Ausbildung gemacht und biete nun auch eine Meridian-Ganzkörper-Massage an. 
+
+Da ich tagsüber in meinem Beruf als kfm. Mitarbeiterin arbeite, biete ich die Massagen Mo-Fr abends und samstags an. 
 
