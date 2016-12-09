@@ -1,0 +1,36 @@
+
+.footer {
+  position: fixed;
+  height: 20px;
+  padding: 10px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #eeb828;
+/*    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #eeb828;
+*/}
+
+.header {
+  border-bottom: 1px solid #eee;
+  /*padding-bottom: 400px;*/
+}
+
+Body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#content {
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+
+.custom-nav {
+  /*margin-top:400px
+  position: absolute;*/
+}
