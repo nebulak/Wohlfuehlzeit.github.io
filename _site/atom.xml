@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Wohlfühlzeit.jetzt</title>
+ <link href="wohlfühlzeit.jetzt/atom.xml" rel="self"/>
+ <link href="wohlfühlzeit.jetzt/"/>
+ <updated>2016-12-29T20:45:43+01:00</updated>
+ <id>wohlfühlzeit.jetzt</id>
+ <author>
+   <name>Mischa Buchhofer</name>
+   <email>mischa.buchhofer@gmx.de</email>
+ </author>
+
+ 
+
+</feed>
