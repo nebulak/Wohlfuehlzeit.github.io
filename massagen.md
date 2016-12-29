@@ -5,7 +5,7 @@ layout: page_left
 # Massagen*
 
 | Leistungen        		| Dauer 	| Preis 	|
-|-------------------		|-------	|-------	|
+|--------|-------|-------|
 | Ayurveda Abhyanga 	| 90 Min.	| 65€    	|
 | Wohlfühlmassage   	| 60 Min.	| 45€    	|
 | Hot Stone         		| 60 Min.	| 55€    	|
