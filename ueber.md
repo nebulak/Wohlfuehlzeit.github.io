@@ -3,7 +3,7 @@ layout: page
 ---
 
 # über mich
-![Barbara Beinenz](img/portrait.png) 
+![Barbara Beinenz](img/portrait1.png) 
 
 Diplomierte Wellnessmasseurin 
 
