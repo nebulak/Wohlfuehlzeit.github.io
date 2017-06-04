@@ -18,9 +18,9 @@ layout: page_left
 Die klassische Ayurveda Anwendung wird mit gewärmten Ölen ausgefürt, abgestimmmt auf die infividuelle Konstitution / Dosha. Sie wirkt zum einen entgiftend, zum anderen wird Müdigkeit reduziert und auch die Immunabwehr erhöht. Durch die Abhyanga Massage kann sich ein Zustand der Tiefenentspannung und Geborgenheit einstellen.
 
 **Meridian Ganzkörpermassage**
-hier werden Gewebeverhärtungen gelöst. Das Immunsystem sowie Muskeln, Nerven und Gelenke gestärkt. Diese Anwendung sorgt für eine hervorragende Durchblutung. Die chinesischen Massagetechniken schließen die Meridiane auf, so dass die Lebensenergie, auch Chi genannt, wieder in allen Kanälen des Körpers ungehindert fließen kann. Es werden sozusagen Blockaden gelöst.
+Diese Anwendung sorgt für eine hervorragende Durchblutung. Es werden Gewebeverhärtungen gelöst, Das Immunsystem sowie Muskeln, Nerven und Gelenke gestärkt. Die chinesischen Massagetechniken schließen die Meridiane auf, so dass die Lebensenergie, auch Chi genannt, wieder in allen Kanälen des Körpers ungehindert fließen kann. 
 
 **Hot Stone Massage**
-Warme Basaltsteine gleiten über den Körper, dadurch wird der Blutkreislauf angeregt und Verspannungen werden gelöst. Die Zellerneuerung wird angeregt und die Muskeln entspannen sich.
+Warme Basaltsteine gleiten bei dieser Massagetechnik über den Körper, dadurch wird der Blutkreislauf angeregt und Verspannungen werden gelöst. Die Zellerneuerung wird angeregt und die Muskeln entspannen sich.
 
 **Fuß- oder Handzonenmassage**Diese Massage trägt zur Entspannung bei, lindert gesundheitliche Probleme und steigert das Wohlbefinden. Durch den Druck auf bestimmte Stellen an der Fußsohle oder der Handfläche wird der Kontakt zu den inneren Organen hergestellt.
