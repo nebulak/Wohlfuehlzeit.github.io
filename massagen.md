@@ -7,9 +7,9 @@ layout: page_left
 | Leistungen          | Dauer 	| Preis 	|
 |--------|-------|-------|
 | Ayurveda Abhyanga 	| 90 Min.	| 65€    	|
-| Wohlfühlmassage   	| 60 Min.	| 45€    	|
-| Hot Stone         	| 60 Min.	| 55€    	|
-| Fußzonen Massage  	| 30 Min.	| 25€    	|
+| Meridian Ganzkörper-Massage   	| 75 Min.	| 65 €    	|
+| Hot Stone Massage       	| 60 Min.	| 55€    	|
+| Fuß- oder Handzonen Massage  	| 30 Min.	| 27€    	|
 
 
 *Weitere Leistungen auf Anfrage. 
