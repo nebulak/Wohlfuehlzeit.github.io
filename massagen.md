@@ -12,8 +12,7 @@ layout: page_left
 | Fuß- oder Handzonen Massage  	| 30 Min.	| 27€    	|
 
 
-*Weitere Leistungen auf Anfrage. 
-
+#gerne biete ich auch Teilmassagen an. Sprechen Sie mich einfach darauf an.
 
 **Ayurveda Abhyanga Ganzkörpermassage**
 Die klassische Ayurveda Anwendung wird mit gewärmten Ölen ausgefürt, abgestimmmt auf die infividuelle Konstitution / Dosha. Sie wirkt zum einen entgiftend, zum anderen wird Müdigkeit reduziert und auch die Immunabwehr erhöht. Durch die Abhyanga Massage kann sich ein Zustand der Tiefenentspannung und Geborgenheit einstellen.
