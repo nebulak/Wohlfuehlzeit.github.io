@@ -8,8 +8,8 @@ layout: page_left
 |--------|-------|-------|
 | Ayurveda Abhyanga Ganzkörpermassage	| 60 Min.	| 55 €    	|
 | Meridian Ganzkörpermassage   	| 75 Min.	| 65 €    	|
-| Hot Stone Massage       	| 60 Min.	| 55€    	|
-| Fuß- oder Handzonen Massage  	| 30 Min.	| 27€    	|
+| Hot Stone Massage       	| 60 Min.	| 55 €    	|
+| Fuß- oder Handzonen Massage  	| 30 Min.	| 27 €    	|
 
 
 #gerne biete ich auch Teilmassagen an. Sprechen Sie mich einfach darauf an.
@@ -23,4 +23,5 @@ Diese Anwendung sorgt für eine hervorragende Durchblutung. Es werden Gewebeverh
 **Hot Stone Massage**
 Warme Basaltsteine gleiten bei dieser Massagetechnik über den Körper, dadurch wird der Blutkreislauf angeregt und Verspannungen werden gelöst. Die Zellerneuerung wird angeregt und die Muskeln entspannen sich.
 
-**Fuß- oder Handzonenmassage**Diese Massage trägt zur Entspannung bei, lindert gesundheitliche Probleme und steigert das Wohlbefinden. Durch den Druck auf bestimmte Stellen an der Fußsohle oder der Handfläche wird der Kontakt zu den inneren Organen hergestellt.
+**Fuß- oder Handzonenmassage**
+Diese Massage trägt zur Entspannung bei, lindert gesundheitliche Probleme und steigert das Wohlbefinden. Durch den Druck auf bestimmte Stellen an der Fußsohle oder der Handfläche wird der Kontakt zu den inneren Organen hergestellt.
