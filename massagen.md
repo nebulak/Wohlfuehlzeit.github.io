@@ -15,7 +15,7 @@ layout: page_left
 #gerne biete ich auch Teilmassagen an. Sprechen Sie mich einfach darauf an.
 
 **Ayurveda Abhyanga Ganzkörpermassage**
-Die klassische Ayurveda Anwendung wird mit gewärmten Ölen ausgefürt, abgestimmmt auf die infividuelle Konstitution / Dosha. Sie wirkt zum einen entgiftend, zum anderen wird Müdigkeit reduziert und auch die Immunabwehr erhöht. Durch die Abhyanga Massage kann sich ein Zustand der Tiefenentspannung und Geborgenheit einstellen.
+Die klassische Ayurveda Anwendung wird mit gewärmten Ölen ausgefürt, abgestimmmt auf die individuelle Konstitution / Dosha. Sie wirkt zum einen entgiftend, zum anderen wird Müdigkeit reduziert und auch die Immunabwehr erhöht. Durch die Abhyanga Massage kann sich ein Zustand der Tiefenentspannung und Geborgenheit einstellen.
 
 **Meridian Ganzkörpermassage**
 Diese Anwendung sorgt für eine hervorragende Durchblutung. Es werden Gewebeverhärtungen gelöst, Das Immunsystem sowie Muskeln, Nerven und Gelenke gestärkt. Die chinesischen Massagetechniken schließen die Meridiane auf, so dass die Lebensenergie, auch Chi genannt, wieder in allen Kanälen des Körpers ungehindert fließen kann. 
